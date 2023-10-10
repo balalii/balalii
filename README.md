@@ -14,12 +14,10 @@
 <img src="https://komarev.com/ghpvc/?username=balalii&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+ Hollaaa !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-
----
 
 ### About Me:
 
