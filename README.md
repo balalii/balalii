@@ -43,7 +43,7 @@ Interested in Frontend Dev ⌨️
 
 ---
 
-### fire: My Stats :
+### :fire: My Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balalii&layout=compact&theme=react)
 
