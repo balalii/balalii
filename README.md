@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ed7RrrCi4r7h5NoQI2/giphy.gif" width="100"/>
-</div>
+
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -18,7 +18,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+</div>
 <!--
 **balalii/balalii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
