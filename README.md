@@ -19,20 +19,13 @@
 </h1>
 </div>
 
-### About Me:
+ About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Interested in Frontend Dev
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+ :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -49,7 +42,7 @@
 
 ---
 
-### :fire: My Stats :
+:fire: My Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balalii&layout=compact&theme=react)
 
