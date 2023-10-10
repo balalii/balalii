@@ -19,14 +19,14 @@
 </h1>
 </div>
 
- About Me:
+### About Me:
 
-Interested in Frontend Dev
+Interested in Frontend Dev ⌨️
 
 ---
-<h3>
- 🛠️ Languages and Tools 
-</h3>
+
+### 🛠️ Languages and Tools :
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@ Interested in Frontend Dev
 
 ---
 
-:fire: My Stats :
+### fire: My Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balalii&layout=compact&theme=react)
 
