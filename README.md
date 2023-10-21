@@ -13,17 +13,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=balalii&style=flat-square&color=blue" alt=""/>
 
-<h1>
+<h3>
  Hollaaa !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h3>
 </div>
 
  
 <div >
   <div align="center">
     
-  <strong>  Interested in Frontend Dev ⌨️ </strong>
+  <strong> I'm interested in frontend dev ⌨️ </strong>
   </div>
  <div  align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
