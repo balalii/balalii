@@ -12,14 +12,14 @@
 
   <img src="https://komarev.com/ghpvc/?username=balalii&style=flat-square&color=blue" alt="" />
   <h2>Hollaaa ! 👋</h2>
-  <div align="center">
-    <strong> I'm interested in frontend dev ⌨️  </strong>
-    <p></p>
-  </div>
   
 </div>
 
 
+  <div align="center">
+    <strong> I'm interested in frontend dev ⌨️  </strong>
+    <p></p>
+  </div>
 
     
   
