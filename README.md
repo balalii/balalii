@@ -16,7 +16,9 @@
 
 <div>
     <div align="center">
-      <strong> I'm interested in frontend dev ⌨️ </strong>
+      <strong> I'm interested in frontend dev ⌨️
+
+ </strong>
     </div>
     
   
