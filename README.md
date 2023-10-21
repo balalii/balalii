@@ -17,6 +17,7 @@
 
   <div align="center">
     <strong> I'm interested in frontend dev ⌨️  </strong>
+    <p></p>
   </div>
     
   
