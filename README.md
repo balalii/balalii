@@ -11,7 +11,7 @@
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=balalii&style=flat-square&color=blue" alt="" />
-  <h2>Hollaaa ! 👋</h2>
+  <h2>Eyyoo</h2>
   
 </div>
 
